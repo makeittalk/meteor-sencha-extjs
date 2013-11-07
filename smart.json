@@ -4,6 +4,6 @@
     "homepage": "www.armando.mx",
     "author": "Armando Gonzalez  (http://www.armando.mx)",
     "version": "0.0.1",
-    "git": "",
+    "git": "https://github.com/manduks/meteor-sencha-extjs.git",
     "packages": {}
 }
