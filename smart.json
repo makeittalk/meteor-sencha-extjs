@@ -1,8 +1,8 @@
 {
     "name": "sencha-extjs",
     "description": "Simple Sencha ExtJS 4 integration on Meteor",
-    "homepage": "www.codetlan.com",
-    "author": "Armando Gonzalez  (http://www.armando.mx)",
+    "homepage": "https://github.com/manduks/meteor-sencha-extjs",
+    "author": "Armando Gonzalez  (http://www.codeltlan.com)",
     "version": "0.0.1",
     "git": "https://github.com/manduks/meteor-sencha-extjs.git",
     "packages": {}
