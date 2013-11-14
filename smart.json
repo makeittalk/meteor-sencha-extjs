@@ -3,7 +3,7 @@
     "description": "Simple Sencha ExtJS 4 integration on Meteor",
     "homepage": "https://github.com/manduks/meteor-sencha-extjs",
     "author": "Armando Gonzalez  (http://www.codetlan.com)",
-    "version": "0.0.1",
+    "version": "0.0.8",
     "git": "https://github.com/manduks/meteor-sencha-extjs.git",
     "packages": {}
 }
